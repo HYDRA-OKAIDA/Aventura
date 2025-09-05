@@ -1,8 +1,13 @@
 body{
 background-color: rgb(49, 87, 12);
 display:flex ;
-
-
-
-
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+button{
+background-color: aquamarine;
+color: beige;
+font-family: 'Bai jajuree', sans-serif;
 }
