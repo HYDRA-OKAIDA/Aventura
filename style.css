@@ -6,8 +6,14 @@ align-items: center;
 height: 700px;
 margin: 0;
 }
+
 button{
-background-color: aquamarine;
+background-color: rgb(17, 161, 49);
 color: beige;
 font-family: 'Bai jajuree', sans-serif;
+}
+
+.passo{
+display: none;
+
 }
