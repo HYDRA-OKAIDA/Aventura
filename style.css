@@ -17,3 +17,15 @@ font-family: 'Bai jajuree', sans-serif;
 display: none;
 
 }
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
